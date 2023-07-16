@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "ceed7e785dbad565",
+    "type": "split",
+    "children": [
+      {
+        "id": "7376db86364571d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfbf5190b05aaf34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "КС-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "790eda5d362ccac8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1593f8384e4d2df4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VirtualNesting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf05b9f36ca4151b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Файловая структура.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb0a5824c889c52e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TechableMachine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "151c363dcf1ff31c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2be63fea1450f58b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e10eb1643c84c4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09f93ab013721c67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c767964c4ac91474",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2a86bf8c9f45ca0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d181d528760d4f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "def9a98356bd1c83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90266208ca86c01e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "364e45270f994afb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ddda9bc335401c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "790eda5d362ccac8",
+  "lastOpenFiles": [
+    "Продвинутые фронтенд-штуки.md",
+    "VirtualNesting.md",
+    "Файловая структура.md",
+    "daily/2023-07-16.md",
+    "daily/2023-07-14.md",
+    "daily/2023-07-13.md",
+    "Сущности инспекционного контроля.md",
+    "КС-2.md",
+    "Что сделать Рамзану.md",
+    "files/Снимок экрана 2023-07-12 в 14.01.11.png",
+    "files/Снимок экрана 2023-07-12 в 13.59.36.png",
+    "files/Снимок экрана 2023-07-12 в 13.59.15.png",
+    "files/Снимок экрана 2023-07-12 в 13.58.49.png",
+    "files/Снимок экрана 2023-07-12 в 13.37.55.png",
+    "files/Снимок экрана 2023-07-12 в 13.37.41.png",
+    "Архитекторство.md",
+    "FSD.md",
+    "files/Снимок экрана 2023-07-12 в 13.15.08.png",
+    "files/Снимок экрана 2023-07-12 в 13.13.46.png",
+    "files/Снимок экрана 2023-07-12 в 13.08.54.png",
+    "files/Снимок экрана 2023-07-12 в 13.07.35.png",
+    "Инспекционный контроль.md",
+    "Entities.md",
+    "daily/2023-07-12.md",
+    "Frontend.md",
+    "Adept.md",
+    "Возможности программы нейросеть.md",
+    "Neuron.md",
+    "Как работает экспорт в TM.md",
+    "TechableMachine.md",
+    "daily/2023-06-27.md",
+    "Технологии для разработки нейросетей на js.md",
+    "Простейшая мат. модель. Перцептрон.md",
+    "Из чего состоит нейрон.md",
+    "Что такое нейрон.md",
+    "Нейронные сети.md",
+    "files",
+    "templates",
+    "daily",
+    "Files"
+  ]
+}
